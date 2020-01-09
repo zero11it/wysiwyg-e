@@ -11,7 +11,7 @@
     "@polymer/iron-iconset-svg": "^3.0.1",
     "@polymer/iron-media-query": "^3.0.1",
     "@polymer/paper-button": "^3.0.1",
-    "@polymer/paper-dropdown-menu": "^3.0.1",
+    "@polymer/paper-dropdown-menu": "~3.0.1",
     "@polymer/paper-icon-button": "^3.0.2",
     "@polymer/paper-input": "^3.0.2",
     "@polymer/paper-item": "^3.0.1",
